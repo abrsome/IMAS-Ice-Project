@@ -1,0 +1,13 @@
+readme.txt
+
+Some information on the folders:
+
+In the list below I have briefly described what can be found in each of folders in this repo. Within each folder are jupyter notebooks for each script. I have written up a notebook for each script with slightly more detail about the aims and processes so that they should be easier to follow and edit, though the original .py scripts with my comments (which should suffice as enough explanation for a coder with decent experience in the relevant libraries) are contained within a subfolder called 'scripts' within each of the following folders.
+
+producenc - contains scripts relating to creating netCDF files from xlsx and csv files.
+rf - contains scripts relating to the building of the random forest model.
+ncfilesraw - contains original xlsx and csv datasets.
+ncfiles - contains the produced netCDF files from xlsx/csv datasets.
+analysis - contains scripts producing analyses of proxies, rf models, and multilinear models.
+
+NOTE: I have not updated filepaths for any scripts as I do not know what hierarchy these files will be implemented in, so please take care to adjust filepaths in each script as you use them.
